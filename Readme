@@ -1,0 +1,21 @@
+# Carb Manager Automation Test Suite
+
+## Overview
+
+This test automation suite is designed to validate the login feature and the "Add Food" functionality of the Carb Manager app. The suite performs the following tasks:
+1. Logs in to the app.
+2. Adds an "Egg" to the daily log page.
+3. Verifies that the "Egg" is correctly logged.
+
+## Prerequisites
+
+- Node.js (v14 or higher)
+- npm (v6 or higher)
+- [Cypress](https://www.cypress.io/) for end-to-end testing
+
+
+1. **Clone the Repository**
+
+   Clone this repository to your local machine:
+
+    
